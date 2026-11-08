@@ -1,0 +1,1 @@
+# INR-for-rgb-image
