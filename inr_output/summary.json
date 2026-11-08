@@ -1,0 +1,11 @@
+{
+  "quality": "fp32",
+  "memory": {
+    "n of model parameters": 198915,
+    "model_fp32_theoretical_bytes": 795660,
+    "model_fp32_file_bytes": 800117,
+    "image_raw_pixel_bytes": 858240,
+    "image_original_file_bytes": 62710,
+    "image_png_bytes": 335037
+  }
+}
