@@ -57,9 +57,10 @@ SIREN stands for Sinusoidal Representation Network.
 It was introduced in the paper:
 
 Implicit Neural Representations with Periodic Activation Functions
+
 Vincent Sitzmann et al.
 
-Reference: https://arxiv.org/abs/2006.09661
+Paper: https://arxiv.org/abs/2006.09661
 
 The problem with conventional MLPs
 
@@ -664,3 +665,11 @@ Neural representation of image content through learned parameters.
 The main advantage demonstrated by this implementation is the ability to reconstruct an image at different resolutions using the same trained neural network.
 
 Although a basic INR is not necessarily more storage-efficient than conventional image formats, it provides an interesting foundation for research into neural image representations, implicit image models, and neural upsampling.
+
+References
+Sitzmann, V. et al. (2020). Implicit Neural Representations with Periodic Activation Functions.
+PyTorch Documentation.
+NumPy Documentation.
+Pillow Documentation.
+
+Source code: image_inr.py
