@@ -431,4 +431,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # python image_inr.py --image surprising_media-man-4945224_446x640.jpg --steps 2000
+    # python image_inr.py --image my_image.jpg --steps 2000
